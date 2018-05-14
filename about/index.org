@@ -1,0 +1,22 @@
+#+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="https://rgb-24bit.github.io/style/css/main.css"/>
+#+OPTIONS:    H:3 num:nil toc:t \n:nil ::t |:t ^:t -:t f:t *:t tex:t d:(HIDE) tags:not-in-toc
+#+TITLE:       About rgb-24bit
+#+AUTHOR:      rgb-24bit 
+
+* Information
+  + name: rgb-24bit
+  + sex: ♂
+  + profession: Software Engineering
+  + school: 西南石油大学 - 在读
+
+* Favorite
+  + 中文VOCALOID
+  + 東方Project
+  + 编程
+
+* Links
+  + [[mailto:rgb-24bit@foxmail.com][My Email]]
+  + [[https://github.com/rgb-24bit][My Github]]
+  + [[https://leetcode-cn.com/rgb_24bit/][My LeetCode]]
+  + [[https://space.bilibili.com/108822060/#/][My BiliBili]]
+
