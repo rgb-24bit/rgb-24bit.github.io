@@ -15,6 +15,7 @@
   + 使用样式: https://github.com/gongzhitaao/orgcss
   + 使用样式: https://github.com/ptpt/org-notes-style
   + 使用样式: http://doc.norang.ca/org.css
+  + 使用样式: https://rgb-24bit.github.io/style/css/main.css
 
 * 独立网页
   + [[https://rgb-24bit.github.io/about/index.html][About rgb-24bit]]
