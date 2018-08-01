@@ -12,6 +12,10 @@ var obj = {
         "使用样式: https://rgb-24bit.github.io/style/css/main.css",
         "使用工具: https://github.com/abodelot/jquery.json-viewer"
     ],
+    "本站链接": {
+        "首页": "https://rgb-24bit.github.io",
+        "博客": "https://rgb-24bit.github.io/blog/"
+    },
     "个人信息": {
         "昵称": "rgb-24bit",
         "性别": "♂",
