@@ -1,6 +1,0 @@
-#+TITLE:      repository
-#+AUTHOR:     rgb-24bit
-#+EMAIL:      rgb-24bit@foxmail.com
-
-这个目录用于保存其他 ~repository~ 可能用到但不适合放在 ~repository~ 中的资源
-
